@@ -1,0 +1,24 @@
+{
+  "name": "facebook-tracking-pixel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeel-v/facebook-tracking-pixel.git"
+  },
+  "keywords": [
+    "pixel",
+    "react-facebook-pixel",
+    "event"
+  ],
+  "author": "Nabeel V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabeel-v/facebook-tracking-pixel/issues"
+  },
+  "homepage": "https://github.com/nabeel-v/facebook-tracking-pixel#readme"
+}
